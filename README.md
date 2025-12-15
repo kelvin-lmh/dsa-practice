@@ -56,8 +56,6 @@ dsa-practice/
 └── maths-geometry/
 ```
 
-_(Structure may evolve as learning progresses.)_
-
 ---
 
 ## 🎯 Learning Approach
